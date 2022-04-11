@@ -1,4 +1,4 @@
-*  URNA ELETRONICA 
+*  URNA ELETRôNICA 
 
-Desenvolvendo uma aplicação de um simulador de urna eletronica brasileira em JavaScript + HTML E CSS.
+Desenvolvendo uma aplicação de um simulador de urna eletrônica brasileira em JavaScript + HTML E CSS.
 
